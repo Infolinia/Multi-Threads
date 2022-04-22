@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\squidy\source\repos\zadanie 3\zadanie 3\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\squidy\source\repos\zadanie 3\zadanie 3\main.cpp(48): warning C4101: 'k': unreferenced local variable
+c:\users\squidy\source\repos\zadanie 3\zadanie 3\main.cpp(48): warning C4101: 'l': unreferenced local variable
+c:\users\squidy\source\repos\zadanie 3\zadanie 3\main.cpp(48): warning C4101: 'j': unreferenced local variable
+c:\users\squidy\source\repos\zadanie 3\zadanie 3\main.cpp(24): warning C4101: 'j': unreferenced local variable
+  Zadanie 3.vcxproj -> C:\Users\Squidy\source\repos\Zadanie 3\Debug\Zadanie 3.exe

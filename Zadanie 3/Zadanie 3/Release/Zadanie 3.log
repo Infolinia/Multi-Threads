@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+Main.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  4 of 47 functions ( 8.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Zadanie 3.vcxproj -> C:\Users\Squidy\source\repos\Zadanie 3\Release\Zadanie 3.exe
